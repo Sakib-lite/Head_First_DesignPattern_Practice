@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface WeaponBehavior {
+interface WeaponBehavior {
+    void useWeapon();
 }
+

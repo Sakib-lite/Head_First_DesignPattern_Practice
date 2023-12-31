@@ -1,7 +1,5 @@
-public class Knife implements WeaponBehavior{
-
-    @Override
+class KnifeBehavior implements WeaponBehavior {
     public void useWeapon() {
-        System.out.println("This is Knife");
+        System.out.println("Stabbing with a knife");
     }
 }
