@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface Observer {
+
+public interface Observer {
+    void update(String message);
 }
