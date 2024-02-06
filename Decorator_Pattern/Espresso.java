@@ -1,7 +1,7 @@
-public class Expresso implements Bevarage {
+public class Espresso implements Bevarage {
 
 
-    String name = "Expresso";
+    String name = "Espresso";
 
     public String getDescription() {
         return name;

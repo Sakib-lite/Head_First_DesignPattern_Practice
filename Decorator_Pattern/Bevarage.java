@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface Bevarage {
+public interface Bevarage {
+    String getDescription();
+    double cost();
 }
